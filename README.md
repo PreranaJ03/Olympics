@@ -31,12 +31,12 @@ Country (NOC)
 **Visualizations**
 
 **#	Chart	Description**
-1	Top 10 Countries by Total Medals (Bar Chart)	- Displays the top-performing nations based on total medal counts.
-2	Medals Won Distribution (Donut Chart)	- Shows the breakdown of Gold, Silver, and Bronze medals.
-3	Athletes by Total Medals (Bar Chart)	- Highlights individual athletes with the most career medals.
-4	Top 10 Sports by Total Medals (Column Chart) -	Shows which sports have awarded the most medals historically.
-5	Athletes by Age Group (Line Chart) -	Analyzes athlete participation trends across different career stages.
-6	Medals by Age Group (Scatter Plot)	- Examines the relationship between athlete age and medal achievements.
+1	Top 10 Countries by Total Medals (Bar Chart)	- Displays the top-performing nations based on total medal counts. </br>
+2	Medals Won Distribution (Donut Chart)	- Shows the breakdown of Gold, Silver, and Bronze medals. </br>
+3	Athletes by Total Medals (Bar Chart)	- Highlights individual athletes with the most career medals. </br>
+4	Top 10 Sports by Total Medals (Column Chart) -	Shows which sports have awarded the most medals historically. </br>
+5	Athletes by Age Group (Line Chart) -	Analyzes athlete participation trends across different career stages. </br>
+6	Medals by Age Group (Scatter Plot)	- Examines the relationship between athlete age and medal achievements. </br>
 
 **Key Insights**
 * Growth of athlete participation over time.
