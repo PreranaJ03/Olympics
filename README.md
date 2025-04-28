@@ -30,7 +30,7 @@ Country (NOC)
 
 **Visualizations**
 
-**#	Chart	Description**
+**#	Chart	Description** </br>
 1	Top 10 Countries by Total Medals (Bar Chart)	- Displays the top-performing nations based on total medal counts. </br>
 2	Medals Won Distribution (Donut Chart)	- Shows the breakdown of Gold, Silver, and Bronze medals. </br>
 3	Athletes by Total Medals (Bar Chart)	- Highlights individual athletes with the most career medals. </br>
