@@ -2,7 +2,7 @@ This project analyzes 120+ years of Olympic Games history using Power BI.
 The dashboard provides interactive insights into athlete participation, medal trends, country dominance, age demographics, and the evolution of Olympic sports over time.
 
 **Dashboard Features**
-**KPI Cards**
+**KPI Cards** </br>
 Total Number of Athletes
 
 Total Number of Medals Awarded
@@ -11,7 +11,7 @@ Total Number of Events
 
 Total Number of Participating Countries
 
-**Filters (Slicers)**
+**Filters (Slicers)** </br>
 Users can interactively explore the data through slicers:
 
 Year (slider)
